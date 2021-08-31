@@ -1,0 +1,6 @@
+
+q
+java:S1450"VRemove the "session" field and declare it as a local variable in the relevant methods.(ýÎÆëýÿÿÿÿ
+s
+java:S1450"]Remove the "sessionFactory" field and declare it as a local variable in the relevant methods.(³†„ 
+X	java:S125"<This block of commented-out lines of code should be removed.(È­ù€8‚»¼Ç¹/
